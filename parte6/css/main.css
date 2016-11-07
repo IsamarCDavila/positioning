@@ -12,6 +12,7 @@ body{
 }
 .box2{
 	background: #44accf;
+	position:absolute;
 	left:200px;
 }
 .box3{
